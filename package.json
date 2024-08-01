@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.23.8",
+    "colors": "^1.4.0",
+    "node-bash-title": "^0.0.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-extra-plugin-recaptcha": "^3.5.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "unique-names-generator": "^4.7.1"
+  }
+}
